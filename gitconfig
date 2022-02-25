@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pjgalbo@gmail.com
+	name = philipp galbo
